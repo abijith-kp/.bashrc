@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Author Abijith K P 
+=======
+#Author Sudev A C 
+>>>>>>> upstream/master
 #inspired from many to use terminal to maximum 
 #
 # ~/.bashrc
