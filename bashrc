@@ -1,4 +1,4 @@
-#Author Sudev Ambadi 
+#Author Abijith K P 
 #inspired from many to use terminal to maximum 
 #
 # ~/.bashrc
